@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "¡Bienvenido a EjemploGit! 🌟", Toast.LENGTH_LONG).show()
         Toast.makeText(this, "Exelente Ejemplo", Toast.LENGTH_LONG).show()
         Toast.makeText(this,"Tester",Toast.LENGTH_SHORT);
+        Toast.makeText(this,"Hola",Toast.LENGTH_SHORT);
         //mio
     }
 }
